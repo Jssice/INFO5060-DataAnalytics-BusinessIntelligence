@@ -18,4 +18,4 @@ faethm.com
 Harrison.ai
 
 ### Data
-data.nsw.au
+https://data.nsw.gov.au/
